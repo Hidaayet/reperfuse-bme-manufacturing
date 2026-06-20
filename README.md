@@ -1,2 +1,4 @@
-# reperfuse-bme-manufacturing
-Non-invasive hemorrhagic shock prediction system | BME Manufacturing Portfolio Project
+# Reperfuse - Non-Invasive Hemorrhagic Shock Prediction System  
+BME Manufacturing Portfolio Project  
+Author: Hideya Yaakoubi
+Target Role: Manufacturing Engineer I / Quality Engineer I (Medical Device)
